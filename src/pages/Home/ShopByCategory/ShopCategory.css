@@ -1,0 +1,7 @@
+
+@media (min-width: 776px) {
+  .react-tabs__tab-panel {
+    display: flex;
+    gap: 25px;
+  }
+}
